@@ -53,6 +53,7 @@ svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-atmaterial
 svn co https://github.com/garypang13/luci-theme-edge/branches/18.06 ./luci-theme-edge
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomato
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomcat
+svn co https://github.com/sirpdboy/trunk/luci-theme-opentopd
 svn co https://github.com/jerrykuku/node-request/trunk ./node-request
 svn co https://github.com/jerrykuku/lua-maxminddb/trunk ./lua-maxminddb
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-Butterfly-dark
@@ -62,8 +63,8 @@ svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-them
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-argonv2
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-argonv3
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-darkmatter
-svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-infinityfreedom
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-netgearv2
+svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-infinityfreedom
 svn co https://github.com/rosywrt/luci-theme-rosy/trunk/luci-theme-rosy
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusic
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusicGo
