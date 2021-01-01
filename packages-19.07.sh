@@ -6,7 +6,6 @@ svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/brook/trunk ./bro
 svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/dns2socks/trunk ./dns2socks
 svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/ipt2socks/trunk ./ipt2socks
 svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/kcptun/trunk ./kcptun
-svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/microsocks/trunk ./microsocks
 svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/naiveproxy/trunk ./naiveproxy
 svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/openssl1.1/trunk ./openssl1.1
 svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/pdnsd-alt/trunk ./pdnsd-alt
