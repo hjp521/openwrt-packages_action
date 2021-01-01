@@ -82,7 +82,7 @@ svn co https://github.com/koshev-msk/luci-app-atinout/trunk ./luci-app-atinout
 cp -r ./luci-app-atinout/atinout ./
 svn co https://github.com/muink/luci-app-pcap-dnsproxy/branches/dev ./luci-app-pcap-dnsproxy
 svn co https://github.com/koshev-msk/3proxy-openwrt/trunk ./3proxy
-svn co https://github.com/pexcn/openwrt-chinadns-ng/branches/luci ./luci-app-chinadns-ng
+svn co https://github.com/izilzty/luci-app-chinadns-ng/branches/luci ./luci-app-chinadns-ng
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-usb-printer
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-ramfree
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-ttyd
