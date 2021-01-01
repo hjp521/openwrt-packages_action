@@ -53,7 +53,6 @@ svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-atmaterial
 svn co https://github.com/garypang13/luci-theme-edge/branches/18.06 ./luci-theme-edge
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomato
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-opentomcat
-svn co https://github.com/sirpdboy/trunk/luci-theme-opentopd
 svn co https://github.com/jerrykuku/node-request/trunk ./node-request
 svn co https://github.com/jerrykuku/lua-maxminddb/trunk ./lua-maxminddb
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-Butterfly-dark
