@@ -1,6 +1,24 @@
 #!/bin/bash
 svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardhome
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-passwall
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/chinadns-ng/trunk ./chinadns-ng
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/brook/trunk ./brook
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/dns2socks/trunk ./dns2socks
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/ipt2socks/trunk ./ipt2socks
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/kcptun/trunk ./kcptun
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/microsocks/trunk ./microsocks
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/naiveproxy/trunk ./naiveproxy
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/openssl1.1/trunk ./openssl1.1
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/pdnsd-alt/trunk ./pdnsd-alt
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/shadowsocksr-libev/trunk ./shadowsocksr-libev
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/simple-obfs/trunk ./simple-obfs
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/ssocks/trunk ./ssocks
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/trojan-go/trunk ./trojan-go
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/trojan-plus/trunk ./trojan-plus
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/trojan/trunk ./trojan
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/v2ray-plugin/trunk ./v2ray-plugin
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/v2ray/trunk ./v2ray
+svn co https://github.com/xiaorouji/openwrt-passwall/tree/main/xray/trunk ./xray
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/gost
 svn co https://github.com/rufengsuixing/luci-app-adguardhome/trunk ./luci-app-adguardhome
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t/luci-app-advancedsetting
