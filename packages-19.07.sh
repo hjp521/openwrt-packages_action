@@ -1,22 +1,22 @@
 #!/bin/bash
 svn co https://github.com/kenzok8/openwrt-packages/trunk .luci-app-passwall
-svn co https://github.com/xiaorouji/openwrt-passwall/chinadns-ng/trunk ./chinadns-ng
-svn co https://github.com/xiaorouji/openwrt-passwall/brook/trunk ./brook
-svn co https://github.com/xiaorouji/openwrt-passwall/dns2socks/trunk ./dns2socks
-svn co https://github.com/xiaorouji/openwrt-passwall/ipt2socks/trunk ./ipt2socks
-svn co https://github.com/xiaorouji/openwrt-passwall/kcptun/trunk ./kcptun
-svn co https://github.com/xiaorouji/openwrt-passwall/naiveproxy/trunk ./naiveproxy
-svn co https://github.com/xiaorouji/openwrt-passwall/openssl1.1/trunk ./openssl1.1
-svn co https://github.com/xiaorouji/openwrt-passwall/pdnsd-alt/trunk ./pdnsd-alt
-svn co https://github.com/xiaorouji/openwrt-passwall/shadowsocksr-libev/trunk ./shadowsocksr-libev
-svn co https://github.com/xiaorouji/openwrt-passwall/simple-obfs/trunk ./simple-obfs
-svn co https://github.com/xiaorouji/openwrt-passwall/ssocks/trunk ./ssocks
-svn co https://github.com/xiaorouji/openwrt-passwall/trojan-go/trunk ./trojan-go
-svn co https://github.com/xiaorouji/openwrt-passwall/trojan-plus/trunk ./trojan-plus
-svn co https://github.com/xiaorouji/openwrt-passwall/trojan/trunk ./trojan
-svn co https://github.com/xiaorouji/openwrt-passwall/v2ray-plugin/trunk ./v2ray-plugin
-svn co https://github.com/xiaorouji/openwrt-passwall/v2ray/trunk ./v2ray
-svn co https://github.com/xiaorouji/openwrt-passwall/xray/trunk ./xray
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/chinadns-ng
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk//brook
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/dns2socks
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/ipt2socks
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/kcptun
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/naiveproxy
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/openssl1.1
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/pdnsd-alt
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/shadowsocksr-libev
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/simple-obfs
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/ssocks
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/trojan-go
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/trojan-plus
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/trojan
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/v2ray-plugin
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/v2ray
+svn co https://github.com/xiaorouji/openwrt-passwall/trunk/xray
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/gost
 svn co https://github.com/rufengsuixing/luci-app-adguardhome/trunk ./luci-app-adguardhome
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t/luci-app-advancedsetting
